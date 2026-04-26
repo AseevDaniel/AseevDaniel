@@ -114,22 +114,6 @@ const danya = {
 
 <br/>
 
-<!-- 📈 ACHIEVES -->
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Achievements
-
-<div align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AseevDaniel&theme=tokyo_night" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AseevDaniel&theme=tokyo_night" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AseevDaniel&theme=tokyo_night" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AseevDaniel&theme=tokyo_night&utcOffset=2" />
-
-</div>
-
-<br/>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          📫 CONTACTS                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->

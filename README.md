@@ -126,10 +126,10 @@ const danya = {
 
 <div align="center">
 
-<a href="https://github.com/AseevDaniel/{REPO_1}">
+<a href="https://github.com/AseevDaniel/cita-monitor">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AseevDaniel&repo={REPO_1}&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=ec4899&text_color=ffffff" />
 </a>
-<a href="https://github.com/AseevDaniel/{REPO_2}">
+<a href="https://github.com/AseevDaniel/bicycle">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AseevDaniel&repo={REPO_2}&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=ec4899&text_color=ffffff" />
 </a>
 
@@ -145,17 +145,14 @@ const danya = {
 
 <div align="center">
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:aseev.doonel@gmail.com">
   <img src="https://img.shields.io/badge/Email-ec4899?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/AseevDaniel">
+<a href="[https://www.linkedin.com/in/AseevDaniel](https://www.linkedin.com/in/danylo-asieiev-30a439188)">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://t.me/{YOUR_TG}">
+<a href="https://t.me/doone_l">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://twitter.com/{YOUR_X}">
-  <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 </div>
@@ -168,48 +165,3 @@ const danya = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
-<div align="center">
-  <i>⭐ From Danya with love</i>
-</div>
-
-<!-- 
-═══════════════════════════════════════════════════════════════════════
-🐍 ИНСТРУКЦИЯ: КАК ВКЛЮЧИТЬ АНИМИРОВАННУЮ ЗМЕЙКУ
-═══════════════════════════════════════════════════════════════════════
-
-1. В своём профильном репо (AseevDaniel/AseevDaniel) создай файл:
-   .github/workflows/snake.yml
-
-2. Вставь туда этот код:
-
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */24 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: AseevDaniel
-          outputs: |
-            dist/snake.svg?palette=github-dark
-            
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-3. Закоммить → подожди пару минут → змейка ожиёт 🐍
-
-═══════════════════════════════════════════════════════════════════════
--->

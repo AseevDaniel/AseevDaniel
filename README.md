@@ -114,6 +114,18 @@ const danya = {
 
 <br/>
 
+<!-- 📈 ACHIEVES -->
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Achievements
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=AseevDaniel&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
+
+</div>
+
+<br/>
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          📫 CONTACTS                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->

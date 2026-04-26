@@ -1,16 +1,3 @@
-<!--
-  📌 ИНСТРУКЦИЯ:
-  1. Создай новый репозиторий с именем = твой username на GitHub
-     (например, если ник DanyaDev → репо называется DanyaDev/DanyaDev)
-  2. Сделай его public
-  3. Положи туда этот README.md
-  4. GitHub автоматом покажет его на главной твоего профиля 🎉
-  
-  Везде где написано {YOUR_USERNAME} — замени на свой ник GitHub
-  Везде где написано {YOUR_NAME} — замени на своё имя
-  Остальной текст редактируй под себя
--->
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    🌈 АНИМИРОВАННЫЙ ЗАГОЛОВОК                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -25,8 +12,8 @@
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username={YOUR_USERNAME}&label=Profile%20views&color=a78bfa&style=for-the-badge" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/{YOUR_USERNAME}?label=Followers&style=for-the-badge&color=ec4899&labelColor=1a1b27" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=AseevDaniel&label=Profile%20views&color=a78bfa&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/AseevDaniel?label=Followers&style=for-the-badge&color=ec4899&labelColor=1a1b27" alt="followers"/>
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Web-8b5cf6?style=for-the-badge&labelColor=1a1b27" alt="focus"/>
 
 </div>
@@ -93,8 +80,8 @@ const danya = {
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username={YOUR_USERNAME}&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=ec4899&text_color=ffffff&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username={YOUR_USERNAME}&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AseevDaniel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=ec4899&text_color=ffffff&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AseevDaniel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff&langs_count=8" />
 
 </div>
 
@@ -104,7 +91,7 @@ const danya = {
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user={YOUR_USERNAME}&theme=tokyonight&hide_border=true&background=0D1117&stroke=a78bfa&ring=ec4899&fire=8b5cf6&currStreakLabel=a78bfa" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=AseevDaniel&theme=tokyonight&hide_border=true&background=0D1117&stroke=a78bfa&ring=ec4899&fire=8b5cf6&currStreakLabel=a78bfa" alt="streak stats" />
 
 </div>
 
@@ -116,7 +103,7 @@ const danya = {
 -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/{YOUR_USERNAME}/{YOUR_USERNAME}/output/snake.svg" alt="snake eating contributions" />
+  <img src="https://raw.githubusercontent.com/AseevDaniel/AseevDaniel/output/snake.svg" alt="snake eating contributions" />
 </div>
 
 <br/>
@@ -125,7 +112,7 @@ const danya = {
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username={YOUR_USERNAME}&bg_color=0D1117&color=a78bfa&line=ec4899&point=ffffff&area=true&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AseevDaniel&bg_color=0D1117&color=a78bfa&line=ec4899&point=ffffff&area=true&hide_border=true" alt="activity graph" />
 
 </div>
 
@@ -139,11 +126,11 @@ const danya = {
 
 <div align="center">
 
-<a href="https://github.com/{YOUR_USERNAME}/{REPO_1}">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username={YOUR_USERNAME}&repo={REPO_1}&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=ec4899&text_color=ffffff" />
+<a href="https://github.com/AseevDaniel/{REPO_1}">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AseevDaniel&repo={REPO_1}&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=ec4899&text_color=ffffff" />
 </a>
-<a href="https://github.com/{YOUR_USERNAME}/{REPO_2}">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username={YOUR_USERNAME}&repo={REPO_2}&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=ec4899&text_color=ffffff" />
+<a href="https://github.com/AseevDaniel/{REPO_2}">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AseevDaniel&repo={REPO_2}&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=ec4899&text_color=ffffff" />
 </a>
 
 </div>
@@ -161,7 +148,7 @@ const danya = {
 <a href="mailto:your.email@example.com">
   <img src="https://img.shields.io/badge/Email-ec4899?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/{YOUR_USERNAME}">
+<a href="https://www.linkedin.com/in/AseevDaniel">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://t.me/{YOUR_TG}">
@@ -190,7 +177,7 @@ const danya = {
 🐍 ИНСТРУКЦИЯ: КАК ВКЛЮЧИТЬ АНИМИРОВАННУЮ ЗМЕЙКУ
 ═══════════════════════════════════════════════════════════════════════
 
-1. В своём профильном репо ({YOUR_USERNAME}/{YOUR_USERNAME}) создай файл:
+1. В своём профильном репо (AseevDaniel/AseevDaniel) создай файл:
    .github/workflows/snake.yml
 
 2. Вставь туда этот код:
@@ -211,7 +198,7 @@ jobs:
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: {YOUR_USERNAME}
+          github_user_name: AseevDaniel
           outputs: |
             dist/snake.svg?palette=github-dark
             

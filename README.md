@@ -120,7 +120,11 @@ const danya = {
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=AseevDaniel&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AseevDaniel&theme=tokyo_night" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AseevDaniel&theme=tokyo_night" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AseevDaniel&theme=tokyo_night" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AseevDaniel&theme=tokyo_night&utcOffset=2" />
 
 </div>
 

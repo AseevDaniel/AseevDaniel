@@ -12,9 +12,9 @@
 
   <br/>
 
-  <!--<img src="https://komarev.com/ghpvc/?username=AseevDaniel&label=Profile%20views&color=a78bfa&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=AseevDaniel&label=Profile%20views&color=a78bfa&style=for-the-badge" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/AseevDaniel?label=Followers&style=for-the-badge&color=ec4899&labelColor=1a1b27" alt="followers"/>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Web-8b5cf6?style=for-the-badge&labelColor=1a1b27" alt="focus"/>-->
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Web-8b5cf6?style=for-the-badge&labelColor=1a1b27" alt="focus"/>
 
 </div>
 

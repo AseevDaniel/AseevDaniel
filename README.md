@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Danylo%20Asieiev%20%7C%20Frontend%20Dev&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20pixel-perfect%20interfaces%20with%20a%20touch%20of%20magic&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Danylo%20Asieiev%20%7C%20Web%20Developer&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20pixel-perfect%20interfaces%20with%20a%20touch%20of%20magic&descAlignY=58&descSize=18" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Frontend+%2F+Fullstack+Developer;6%2B+years+turning+ideas+into+code;React+%E2%9D%A4%EF%B8%8F+TypeScript+%E2%9D%A4%EF%B8%8F+Next.js;Currently+cooking+at+%40GenAI.works" alt="Typing SVG" />
@@ -109,25 +109,6 @@ const danya = {
 <div align="center">
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AseevDaniel&bg_color=0D1117&color=a78bfa&line=ec4899&point=ffffff&area=true&hide_border=true" alt="activity graph" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        🚀 PINNED PROJECTS                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Featured projects
-
-<div align="center">
-
-<a href="https://github.com/AseevDaniel/cita-monitor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AseevDaniel&repo={REPO_1}&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=ec4899&text_color=ffffff" />
-</a>
-<a href="https://github.com/AseevDaniel/bicycle">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AseevDaniel&repo={REPO_2}&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=ec4899&text_color=ffffff" />
-</a>
 
 </div>
 

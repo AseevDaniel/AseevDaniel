@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    🌈 АНИМИРОВАННЫЙ ЗАГОЛОВОК                    -->
+<!--                    🌈 title                                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -21,7 +21,7 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          👋 ПРО МЕНЯ                             -->
+<!--                          👋 about me                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About me
@@ -31,8 +31,7 @@ const danya = {
   role:        "Frontend / Fullstack Developer",
   company:     "@GenAI.works",
   experience:  "6+ years",
-  location:    "🌍 Somewhere on the planet",
-  currentlyOn: ["FlyLink", "AI Academy", "AI Catalog"],
+  location:    "🇪🇸 Spain",
   passions:    ["clean code", "cool UI", "AI products", "ramen 🍜"],
   funFact:     "I delegate boring tasks to Claude 🤖"
 };
@@ -41,7 +40,7 @@ const danya = {
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       🛠️ ИКОНКИ ТЕХНОЛОГИЙ                       -->
+<!--                       🛠️ tech icons                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech stack
@@ -50,17 +49,17 @@ const danya = {
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,python" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
 </p>
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,sass,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,mobx,tailwind,sass,vite" />
 </p>
 
 ### Backend & DB
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,redis,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,redis,strapi" />
 </p>
 
 ### Tools & DevOps
@@ -73,7 +72,7 @@ const danya = {
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       📊 GITHUB СТАТИСТИКА                       -->
+<!--                       📊 GITHUB stats                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/W0bIYa8t2VopkkhCXS/giphy.gif" width="28"> GitHub stats
@@ -87,7 +86,7 @@ const danya = {
 
 <br/>
 
-<!-- 🔥 ПОЛОСКА АКТИВНОСТИ (STREAK) -->
+<!-- 🔥 STREAK -->
 
 <div align="center">
 
@@ -97,10 +96,7 @@ const danya = {
 
 <br/>
 
-<!-- 🐍 АНИМИРОВАННАЯ ЗМЕЙКА КУШАЕТ КОНТРИБЬЮШНЫ -->
-<!-- 
-  Чтобы это работало, нужно создать GitHub Action в репо. Инструкция в самом низу файла.
--->
+<!-- 🐍 SNAKE -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/AseevDaniel/AseevDaniel/output/snake.svg" alt="snake eating contributions" />
@@ -108,7 +104,7 @@ const danya = {
 
 <br/>
 
-<!-- 📈 ГРАФИК АКТИВНОСТИ -->
+<!-- 📈 ACTIVITY -->
 
 <div align="center">
 
@@ -138,7 +134,7 @@ const danya = {
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          📫 КОНТАКТЫ                             -->
+<!--                          📫 CONTACTS                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> Let's connect
@@ -160,7 +156,7 @@ const danya = {
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       🌊 НИЖНЯЯ ВОЛНА                            -->
+<!--                       🌊 FOOTER                                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />

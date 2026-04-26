@@ -54,12 +54,12 @@ const danya = {
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,mobx,tailwind,sass,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,sass,vite" />
 </p>
 
 ### Backend & DB
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,redis,strapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,redis" />
 </p>
 
 ### Tools & DevOps

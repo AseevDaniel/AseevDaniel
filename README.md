@@ -77,24 +77,24 @@ const danya = {
 
 ## <img src="https://media.giphy.com/media/W0bIYa8t2VopkkhCXS/giphy.gif" width="28"> GitHub stats
 
-<div align="center">
+<!-- <div align="center">
 
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=AseevDaniel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=ec4899&text_color=ffffff&include_all_commits=true&count_private=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AseevDaniel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff&langs_count=8" />
 
 </div>
 
-<br/>
+<br/> -->
 
 <!-- 🔥 STREAK -->
 
-<div align="center">
+<!-- <div align="center">
 
   <img src="https://streak-stats.demolab.com?user=AseevDaniel&theme=tokyonight&hide_border=true&background=0D1117&stroke=a78bfa&ring=ec4899&fire=8b5cf6&currStreakLabel=a78bfa" alt="streak stats" />
 
 </div>
 
-<br/>
+<br/> -->
 
 <!-- 🐍 SNAKE -->
 
@@ -106,13 +106,13 @@ const danya = {
 
 <!-- 📈 ACTIVITY -->
 
-<div align="center">
+<!-- <div align="center">
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AseevDaniel&bg_color=0D1117&color=a78bfa&line=ec4899&point=ffffff&area=true&hide_border=true" alt="activity graph" />
 
-</div>
+</div> -->
 
-<br/>
+<!-- <br/> -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          📫 CONTACTS                            -->

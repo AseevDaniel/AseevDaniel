@@ -29,7 +29,6 @@
 ```typescript
 const danya = {
   role:        "Frontend / Fullstack Developer",
-  company:     "@GenAI.works",
   experience:  "6+ years",
   location:    "🇪🇸 Spain",
   passions:    ["clean code", "cool UI", "AI products", "ramen 🍜"],
